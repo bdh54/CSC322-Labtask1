@@ -1,0 +1,1 @@
+The programs parent process is the tcsh shell which runs the program. The tcsh shell has the parent process getty which monitors terminal lines and allows the user to login. Getty has the parent process systemd (init) which is the ancestor of all further processes, systemd has PID 1. Process 0 creates systemd and has the PID 0.

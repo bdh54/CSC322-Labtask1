@@ -1,0 +1,6 @@
+User ID- 501
+Primary Group ID- 20
+The names of all groups I belong to- staff everyone localaccounts _appserverusr admin _appserveradm _lpadmin com.apple.sharepoint.group.1 _appstore _lpoperator _developer _analyticsusers com.apple.access_ftp com.apple.access_screensharing com.apple.access_ssh com.apple.access_remote_ae
+The absolute path of my shell- /bin/tcsh
+The absolute path of my home directory- /Users/brendanhendricks
+My path environment variable- /Library/Frameworks/Python.framework/Versions/3.12/bin /usr/local/bin /System/Cryptexes/App/usr/bin /usr/bin /bin /usr/sbin /sbin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
